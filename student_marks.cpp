@@ -36,5 +36,5 @@ int main(){
         cout<<" "<<total_marks[i]/5;
         cout<<endl;
     }
-
+    
 }
